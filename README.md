@@ -44,5 +44,3 @@ Lowest performance: Monday (69.37%).
 🕒 Day-wise Performance: Certain weekdays show higher actual delivery times, requiring process improvements.
 
 🚛 Route Types: Majority of deliveries are carting-based, with lower distribution in FTL routes.
-
-🖼️ Dashboard Preview
